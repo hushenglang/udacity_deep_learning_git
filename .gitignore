@@ -1,3 +1,5 @@
 .idea/
 *.zip
 *.pickle
+*.gz
+cifar-10-batches-py/
